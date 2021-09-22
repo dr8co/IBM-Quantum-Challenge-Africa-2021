@@ -6,5 +6,3 @@ Each lab contains multiple exercises, taking you through the process of setting 
 Each lab is presented as a Jupyter notebook which is hosted on the IBM Quantum Lab.
 
 # [Preliminary Content](https://github.com/dr8co/IBM-Quantum-Challenge---Africa-2021-Solutions/blob/main/preliminary_content.md)
-
-# [Submitting Solutions](https://github.com/dr8co/IBM-Quantum-Challenge---Africa-2021-Solutions/blob/main/Submitting%20Solutions.md)
